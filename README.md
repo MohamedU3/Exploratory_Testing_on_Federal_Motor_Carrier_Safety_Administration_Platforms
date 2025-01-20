@@ -19,5 +19,5 @@ Performance Evaluation: Assessed site performance to identify and address bottle
 User Experience: Focused on enhancing the overall user experience through detailed UI assessments.
 ## Resources
 List of Websites: The testing covered the following websites, each linked to its GitHub repository and hosted version for easy access and review.
-Feel free to explore the project files and documentation for more detailed insights into the testing and development processes. You will find a pdf file for the front-end assessment, then an excel sheet with the list of all 15 websites and their grades.
+Feel free to explore the project files and documentation for more detailed insights into the testing and development processes. You will find a pdf file for the front-end assessment, then an excel sheet with the list of all 15 websites and their grades called "Points and Grading" this is the main file that has the final result. As for files like Functionality and UI they just have the test steps I took for each of functional and non-functional testing and these test steps were applied to all websites
 
